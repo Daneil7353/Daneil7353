@@ -30,7 +30,7 @@ I am a committed, proactive person with great learning ability. I strive to deli
 
 ## 📂 Projects
 - **Finished**
-  - VACCA3 at ALBA SYNCHROTRON (not available in public)
+  - [VACCA3 at ALBA SYNCHROTRON (Currently not working on it)](https://gitlab.com/alba-synchrotron/controls-section/taurus_vacca_svg.git)
 - **To be continued**
   - Full AI chat
 
