@@ -32,7 +32,7 @@ I am a committed, proactive person with great learning ability. I strive to deli
 - **Finished**
   - [VACCA3 at ALBA SYNCHROTRON (Currently not working on it)](https://gitlab.com/alba-synchrotron/controls-section/taurus_vacca_svg.git)
 - **To be continued**
-  - Full AI chat
+  - [Ai Chat, local executed AI](https://github.com/Daneil7353/chat_ia.git)
 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Engineering** (2024 - Present) - UOC
