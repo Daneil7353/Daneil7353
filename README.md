@@ -34,6 +34,8 @@ I am a committed, proactive person with great learning ability. I strive to deli
 - **To be continued**
   - [Ai Chat, local executed AI](https://github.com/Daneil7353/chat_ia.git)
 
+---
+
 ## 🎓 Education
 - **Bachelor's Degree in Computer Engineering** (2024 - Present) - UOC
 - **Higher Certificate in Cross-Platform Application Development** (2020 - 2022)
