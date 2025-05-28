@@ -31,6 +31,7 @@ I am a committed, proactive person with great learning ability. I strive to deli
 ## 📂 Projects
 - **Finished**
   - [VACCA3 at ALBA SYNCHROTRON (Currently not working on it)](https://gitlab.com/alba-synchrotron/controls-section/taurus_vacca_svg.git)
+  - [Basic MP3 Player](https://github.com/Daneil7353/DMP3.git)
 - **To be continued**
   - [Ai Chat, local executed AI](https://github.com/Daneil7353/chat_ia.git)
 
