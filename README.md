@@ -54,6 +54,11 @@ I am a committed, proactive person with great learning ability. I strive to deli
 
 ---
 
+## 📜 ​Certificates
+- Introduction to Data Analysis by Cisco:
+
+[![Badge](https://github.com/user-attachments/assets/7ba16ed6-6774-4fbc-b75c-005bfc26c729)](https://www.credly.com/badges/73fece5a-098c-411d-a492-327ec8bd4fef/public_url)
+
 ## 📫 Contact
 📍 **Location:** Terrassa, Barcelona, Spain  
 📧 **Email:** damargon12@gmail.com  
