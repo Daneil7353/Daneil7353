@@ -25,6 +25,8 @@ I am a committed, proactive person with great learning ability. I strive to deli
 ## 💼 Experience
 - **Internship at ALBA Synchrotron** as Full-Stack Junior Developer (June 2023 - May 2024)
   - Worked on a large project, handling everything from database connections to GUI development, the VACCA3 on projects
+- **CFGM Professor** (April 2025 - May 2025)
+  - Worked with several classes, taught them Excel, Access and PC Hardware.
 
 ---
 
