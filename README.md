@@ -41,7 +41,7 @@ I am a committed, proactive person with great learning ability. I strive to deli
 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Engineering** (2024 - Present) - UOC
-- **Higher Certificate in Cross-Platform Application Development** (2020 - 2022)
+- **Higher Certificate in Cross-Platform Application Development** (2022 - 2024)
 - **Aerospace Vehicle Engineering** (Not completed)
 
 ---
