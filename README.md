@@ -17,7 +17,7 @@ I am a committed, proactive person with great learning ability. I strive to deli
 - **Web Development**: HTML, XML, XSD, DTD, XPath, XQuery
 - **Paradigms**: Object-Oriented Programming (OOP)
 - **Operating Systems**: Linux (Ubuntu, Debian and Arch), Windows
-- **Cloud & DevOps**: AWS
+- **Cloud & DevOps**: AWS (Very basic)
 - **Tools**: Git, Microsoft Office
 
 ---
